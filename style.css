@@ -1,0 +1,42 @@
+.hidden{
+    display: none !important;
+}
+
+#connect-page {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+textarea {
+    display: block;
+    margin: auto;
+    border-radius: 1em;
+    border : 1px solid grey;
+    height: 30vh;
+    width: 100%;
+    padding: 2em;
+}
+
+#sign{
+    display: block;
+    margin:1em auto;
+}
+
+#signature {
+    display: block;
+    margin: 1em auto;
+    background-color: #CCC;
+    font-family: monospace;
+    height: 30vh;
+    word-break: break-all;
+    border-radius: 1em;
+}
+
+#ui {
+    width: 80vw;
+    margin: 1em auto;
+    padding: 2em;
+}
+
